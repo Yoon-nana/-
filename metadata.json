@@ -1,5 +1,6 @@
 {
   "name": "Emoji Cluster Lab",
   "description": "An interactive game for children to learn about unsupervised learning through clustering emojis by color or category.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
